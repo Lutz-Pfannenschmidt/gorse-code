@@ -7,3 +7,5 @@ It's Tree based, so it's very fast and (somewhat) efficient (it rebuilts the tre
 go run . -m=".... . .-.. .-.. ---  .-- --- .-. .-.. -.." # Hello World
 ```
 Where `-m` is the Morsecode string you want to translate.
+
+Words are separated by 2 spaces and letters by 1 space.
