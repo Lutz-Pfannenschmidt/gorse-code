@@ -44,15 +44,3 @@ func (t *Tree) Get(path string) (rune, error) {
 		return t.Right.Get(path[1:])
 	}
 }
-
-func (t *Tree) Draw() {
-	if t.Left != nil {
-		t.Left.Draw()
-	}
-	if t.Value != 0 {
-		fmt.Printf("%c: %v\n", t.Value, t.Value)
-	}
-	if t.Right != nil {
-		t.Right.Draw()
-	}
-}
