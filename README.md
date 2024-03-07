@@ -4,6 +4,6 @@ It's Tree based, so it's very fast and (somewhat) efficient (it rebuilts the tre
 
 ## Usage
 ```bash
-go run . -m=".... . .-.. .-.. ---  .-- --- .-. .-.. -.."
+go run . -m=".... . .-.. .-.. ---  .-- --- .-. .-.. -.." # Hello World
 ```
 Where `-m` is the Morsecode string you want to translate.
