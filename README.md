@@ -10,4 +10,4 @@ Where `-m` is the Morsecode string you want to translate.
 
 Words are separated by 2 spaces and letters by 1 space.
 
-![Morse table](https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg)
+![Morse table](table.png)
