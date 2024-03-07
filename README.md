@@ -4,6 +4,6 @@ It's Tree based, so it's very fast and (somewhat) efficient (it rebuilts the tre
 
 ## Usage
 ```bash
-go run .
+go run . -m=".... . .-.. .-.. ---  .-- --- .-. .-.. -.."
 ```
-Then you can input morsecode and it will translate it to the Latin alphabet.
+Where `-m` is the Morsecode string you want to translate.
